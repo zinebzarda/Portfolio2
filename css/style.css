@@ -12113,7 +12113,7 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center;
 }
 
 .image-popup {
